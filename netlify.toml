@@ -24,3 +24,7 @@
 [[edge_functions]]
 function = "twitch"
 path = "/twitch"
+
+[[edge_functions]]
+function = "buttondown"
+path = "/buttondown"
