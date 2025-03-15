@@ -28,3 +28,8 @@ path = "/twitch"
 [[edge_functions]]
 function = "buttondown"
 path = "/buttondown"
+
+[[edge_functions]]
+function = "md-to-tokens"
+path = "/md-to-tokens"
+method = "POST"

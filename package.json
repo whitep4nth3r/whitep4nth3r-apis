@@ -1,0 +1,21 @@
+{
+  "name": "whitep4nth3r-apis",
+  "version": "1.0.0",
+  "description": "APIs to access data for  whitep4nth3r.com",
+  "homepage": "https://github.com/whitep4nth3r/whitep4nth3r-apis#readme",
+  "bugs": {
+    "url": "https://github.com/whitep4nth3r/whitep4nth3r-apis/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitep4nth3r/whitep4nth3r-apis.git"
+  },
+  "license": "MIT",
+  "author": "Salma Alam-Naylor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "marked": "^15.0.7"
+  }
+}
