@@ -127,8 +127,8 @@ export default async function (request) {
         isLive: false,
         thumbnail: {
           url: null,
-          height: "1080",
-          width: "1920",
+          height: null,
+          width: null,
         },
         title: null,
         subtitle: null,
