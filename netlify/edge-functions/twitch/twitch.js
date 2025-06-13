@@ -86,7 +86,7 @@ export default async function (request) {
   } else {
     const vods = await TwitchApi.getVods();
 
-    if (vods !== null) {
+    if (vods.data.length > 0) {
       const latestVod = vods.data[0];
 
       const today = new Date();
